@@ -16,7 +16,7 @@ p {
     text-align: center;
 }
 em strong {
-    text-align: center;
+    color:aqua
 }
 #missao {
     font-size: 20px;
@@ -31,9 +31,16 @@ em strong {
 em strong {
     color:aqua
 }
-h2{
-   text-aling: center;  
+.itens
+font-sityle: #ffffff
+padding:20px;
 }
-ul{
-    
+h2 {
+    display:inline-block;
+    vertical-aling:top
+    windth:20%;
+    margin-ringht:14%;
+}
+.imagenbeneficios{
+    windth:50%;
 }
